@@ -18,7 +18,7 @@ jQuery: Una biblioteca de JavaScript utilizada para simplificar la manipulación
 
 Git & GitHub: Para el control de versiones y la gestión del proyecto.
 
-###🎓 Lo que He Aprendido
+### 🎓 Lo que He Aprendido
 
 A lo largo del desarrollo de este portafolio, he reforzado y adquirido nuevas habilidades, tales como:
 
